@@ -1,6 +1,6 @@
 package com.logica.testpackage;
 
-class myfirstjavaprog
+class HelloWorld
 {  
         public static void main(String args[])
         {
